@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="209.99741mm"
+   height="297.17249mm"
+   viewBox="0 0 209.99741 297.17249"
+   version="1.1"
+   id="svg72"
+   sodipodi:docname="callibrationtest.svg"
+   inkscape:export-filename="exportnomarginpngtest.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview74"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="18"
+     inkscape:cy="470"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="211"
+     inkscape:window-y="1432"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="192.93104,284.38775"
+       orientation="0,793.70078"
+       id="guide135"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="196.67282,257.0728"
+       orientation="1122.5197,0"
+       id="guide137"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-18.853325,11.238299"
+       orientation="0,-793.70078"
+       id="guide139"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.829217,285.88446"
+       orientation="-1122.5197,0"
+       id="guide141"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs69" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.14445761,0.06269193)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.950134;stroke-dasharray:none;stroke-opacity:1"
+       id="rect250"
+       width="209.04729"
+       height="296.22235"
+       x="0.6195246"
+       y="0.41237506" />
+  </g>
+  <plotdata
+     application="axidraw"
+     model="1"
+     layer="-2"
+     node="0"
+     last_path="0"
+     node_after_path="0"
+     last_known_x="0"
+     last_known_y="0"
+     paused_x="0"
+     paused_y="0"
+     randseed="0"
+     row="0"
+     id="1659037391" />
+</svg>
